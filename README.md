@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello! welcome to my Github profile. 👋
+## About me 🧑🏼‍💻
+My name is Lucas, and I'm a huge information technology enthusiast.
 
-<!--
-**lucasfv1/lucasfv1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduated in Information Systems from Universidade Presidente Antônio Carlos in 2012. I completed a postgraduate degree in Information Technology Management from Universidade Candido Mendes in 2017. I earned a Master's degree in Production Engineering with an emphasis on Mobile Application Development from Universidade Federal de Goiás in 2020. Currently, I am a federal public servant, holding the position of Information Technology Technician at Universidade Federal de Uberlândia.
 
-Here are some ideas to get you started:
+In my current role, I work on the development of web systems using Java, Spring Boot, PHP, PostgreSQL, DB2, HTML, and JavaScript. In addition to these technologies, I also work on personal projects with Python and Flutter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Complete CV and additional information ℹ️
+- [Lattes CV](http://lattes.cnpq.br/5298020657413006)
+- [Linkedin](https://www.linkedin.com/in/lucas-fagundes-vaz-62a60b2b/)
+
+
+
+
+
+
